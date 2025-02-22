@@ -63,7 +63,9 @@
 
 <svelte:head>
 	<title>Home</title>
-	<meta name="description" content="Svelte demo app" />
+	<meta name="title" content="Resume">
+	<meta name="description" content="A Website Resume" />
+	<meta name="author" content="Alenn Wight">
 </svelte:head>
 
 <section>
